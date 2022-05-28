@@ -1,7 +1,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
- </div>
+</div>
 
+<div id="badges" align="center">
+  <a href="https://www.youtube.com/c/galibmahin">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.facebook.com/galibmahin007/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
 <!--
 **galibmahin/galibmahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
