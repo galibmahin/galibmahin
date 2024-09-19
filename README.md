@@ -28,7 +28,7 @@
 
 # :woman_technologist: About Me :
 
-I am a Learning Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm form Bangladesh.
+A Fivem Server Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Learning to become Game Developer.
 
 - :telescope: I am a full-time Fivem Server Developer, I'm learning Unity Game Development now.
 
