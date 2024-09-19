@@ -30,7 +30,7 @@
 
 I am a Learning Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm form Bangladesh.
 
-- :telescope: I am a full time Gamer and now I'm moving into Web Development.
+- :telescope: I am a full-time Fivem Server Developer, I'm learning Unity Game Development now.
 
 - :seedling: Exploring Technical Content Writing.
 
