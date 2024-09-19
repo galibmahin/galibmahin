@@ -52,7 +52,7 @@ A Fivem Server Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ## 👉 Join the community
 <p>
-  <a href="https://discord.gg/pnmXg4Cwtt"><img src="https://discordapp.com/api/guilds/979068299675594782/widget.png?style=banner2" alt="Discord server"></a>
+  <a href="https://discord.gg/NxQuAg9xuM"><img src="https://discordapp.com/api/guilds/979068299675594782/widget.png?style=banner2" alt="Discord server"></a>
 </p>
 
 # :fire: My Stats :
